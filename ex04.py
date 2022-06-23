@@ -13,3 +13,4 @@ imc: float = peso / (altura ** 2)
 # imc = peso / (altura ** 2)
 print(f"O IMC é: {imc}")
 
+print("Fim do programa")
