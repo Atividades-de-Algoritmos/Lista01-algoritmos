@@ -23,4 +23,4 @@ imc = peso / (altura ** 2) # Calculando o IMC
 # Saída de dados
 
 print(f"O IMC é: {imc}") # Imprimindo o valor do IMC
-print("Fim do programa") # Informando ao usuário que o programa terminou
+print("fim do programa") # Informando ao usuário que o programa terminou

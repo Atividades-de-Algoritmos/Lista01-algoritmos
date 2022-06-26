@@ -54,7 +54,7 @@ O resultado da conversão será exibido no terminal.
 > python ex01.py
 
 informe a temperatura em Celsius: 37
-A temperatura em Fahrenheit é: 98.6
+A temperatura em Fahrenheit é: 98.60000000000001
 fim do programa
 ```
 
@@ -111,8 +111,8 @@ O resultado da média será exibido no terminal.
 informe a nota 1: 7
 informe a nota 2: 8
 informe a nota 3: 9
-24.0
-A média final é: 8.33
+24
+A média final é: 8.0
 fim do programa
 ```
 
@@ -142,7 +142,7 @@ O resultado do IMC será exibido no terminal.
 
 Digite o peso: 70
 Digite a altura: 1.75
-O IMC é: 22.22
+O IMC é: 22.857142857142858
 fim do programa
 ```
 

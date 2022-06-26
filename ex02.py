@@ -16,7 +16,6 @@
 A = input("informe um valor para o A: ") # Usamos input() para saber o valor de A
 B = input("informe um valor para o B: ") # Usamos input() para saber o valor de B
 C = input("informe um valor para o C: ") # Usamos input() para saber o valor de C
-B = input("informe um valor para o B: ") # Usamos input() para saber o valor de D
 
 # processamento de dados
 
