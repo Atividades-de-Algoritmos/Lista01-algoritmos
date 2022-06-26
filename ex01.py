@@ -6,8 +6,8 @@
 #
 # data: 26/06/2022
 #
-# 1. Faça um algoritmo de conversão de uma temperatura em graus
-# Celsius para uma temperatura em Fahrenheit.
+# 1. Faça um algoritmo de conversão de uma temperatura em    
+# graus Celsius para uma temperatura em Fahrenheit.          
 
 # entrada de dados
 

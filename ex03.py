@@ -6,8 +6,8 @@
 #
 # data: 26/06/2022
 #
-# 3. Crie um programa que recebe suas três notas (colégio,
-# faculdade) e calcule a média final. calcula a média
+# 3. Crie um programa que recebe suas três notas (colégio,   
+# faculdade) e calcule a média final. calcula a média        
 
 # Entrada de dados
 

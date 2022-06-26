@@ -9,7 +9,7 @@
 # 2. Faça um algoritmo que leia 3 variáveis, do tipo carácter
 # A seguir troque o valor das 3 variáveis A, B e C, de forma 
 # que A fique com o valor de B, B com o valor de C e C com o 
-# valor de A. Mostre os valores finais.
+# valor de A. Mostre os valores finais.                      
 
 # entrada de dados
 
