@@ -13,7 +13,7 @@
 
 <br>
 
-# Sumario
+# Sumario 🧮
 <details open="open">
     <summary>Exercícios</summary>
     <ol>
@@ -36,12 +36,12 @@
  
 # ex01
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista01-algoritmos/blob/main/ex01.py">Ir para o código</a>
-## Sobre:
+## Sobre 📒:
 - Um algoritmo que recebe uma temperatura em graus Celsius e retorna a temperatura em graus Fahrenheit. Usando a formula:
 
 `9/5 * Celsius = Fahrenheit - 32`
 
-## Como executar:
+## Como executar 💽:
 No terminal, digite:
 ```cmd
 python ex01.py
@@ -49,7 +49,10 @@ python ex01.py
 pressione enter. Logo em seguida, digite a temperatura em graus Celsius, e pressione enter.
 O resultado da conversão será exibido no terminal.
 
-### Exemplo no cmd:
+<br>
+<br>
+
+## Exemplo no cmd 👨‍💻:
 ```
 > python ex01.py
 
@@ -62,12 +65,12 @@ fim do programa
   
 # ex02
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista01-algoritmos/blob/main/ex02.py">Ir para o código</a>
-## Sobre:
+## Sobre 📒:
 - Um algoritmo que recebe três (3) valores do tipo texto (string) e as armazena em três (3) variáveis. Respectivamente chamadas: `A`, `B`, `C`, logo em seguida coloca o texto `A` em `B` e o texto `B` em `C` e o texto `C` em `A`. Como é demonstrado no diagrama abaixo:
 <br>
 <img src='./images/ex02-diagrama.png' width='200'>
 
-## Como executar:
+## Como executar 💽:
 No terminal, digite:
 ```cmd
 python ex02.py
@@ -75,7 +78,10 @@ python ex02.py
 pressione enter. Logo em seguida, digite o texto `A` e pressione enter, o texto `B` e pressione enter, e o texto `C` e pressione enter.
 O resultado da troca será exibido no terminal.
 
-### Exemplo no cmd:
+<br>
+<br>
+
+## Exemplo no cmd 👨‍💻:
 ```
 > python ex02.py
 
@@ -93,10 +99,10 @@ fim do programa
 
 # ex03
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista01-algoritmos/blob/main/ex03.py">Ir para o código</a>
-## Sobre:
+## Sobre 📒:
 - Um algoritmo que recebe três (3) seja do Colégio, Faculdade ou Universidade, e calcule a média final desses valores.
 
-## Como executar:
+## Como executar 💽:
 No terminal, digite:
 ```cmd
 python ex03.py
@@ -104,7 +110,10 @@ python ex03.py
 pressione enter. Logo em seguida, digite o valor da primeira nota e pressione enter, o valor da segunda nota e pressione enter, e o valor da terceira nota e pressione enter.
 O resultado da média será exibido no terminal.
 
-### Exemplo no cmd:
+<br>
+<br>
+
+## Exemplo no cmd 👨‍💻:
 ```
 > python ex03.py
 
@@ -118,17 +127,14 @@ fim do programa
 
 <br>
  
- ##
- 
 # ex04
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista01-algoritmos/blob/main/ex04.py">Ir para o código</a>
-## Sobre:
+## Sobre 📒:
 - Um algoritmo que recebe o peso e a altura de uma pessoa e calcula seu IMC. O IMC é calculado com a fórmula:
 
 ` IMC = peso (em quilos) / altura² (em metros) `
 
-
-## Como executar:
+## Como executar 💽:
 No terminal, digite:
 ```cmd
 python ex04.py
@@ -136,7 +142,10 @@ python ex04.py
 pressione enter. Logo em seguida, digite o peso e pressione enter, e a altura e pressione enter.
 O resultado do IMC será exibido no terminal.
 
-### Exemplo no cmd:
+<br>
+<br>
+
+## Exemplo no cmd 👨‍💻:
 ```
 > python ex04.py
 
@@ -146,7 +155,7 @@ O IMC é: 22.857142857142858
 fim do programa
 ```
 
-<br>
+#
 
 Feito com 💚 e ☕ by [**Michel**](https://github.com/MichelZero), [**Carlos**](https://github.com/SmokeDevL) e [**Emanuel**](https://github.com/emanuelfranklyn)
 
