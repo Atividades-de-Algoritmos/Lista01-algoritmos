@@ -13,7 +13,7 @@
 
 <br>
 
-# Sumario 🧮
+# Sumário 🧮
 <details open="open">
     <summary>Exercícios</summary>
     <ol>
